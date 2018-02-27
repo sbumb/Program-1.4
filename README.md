@@ -1,5 +1,6 @@
 # Program-1.4
 Intro to Java Programming, Comprehensive Version, 10th Edition, Y. Daniel Liang
+
 Question:
 
 	(Print a table) Write a program that displays the following table:
